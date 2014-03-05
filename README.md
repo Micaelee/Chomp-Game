@@ -5,7 +5,7 @@ Game created using Processing and FaceOSC
 
 download FaceOSC app from https://github.com/kylemcdonald/ofxFaceTracker/downloads
 
-Chomp — game by Micaelee Hanson mhanson@ecuad.ca 
+Chomp — game by Micaelee Hanson
 
 Try to eat as many donuts and tacos as possible but avoid eating the shoes and fish bones! 
 Player’s physical movements control the motion of an animated mouth within the game, which 
